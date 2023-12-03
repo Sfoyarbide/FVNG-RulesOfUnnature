@@ -1,0 +1,1128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fffa0133a6e0f49af55b75744b912a, type: 3}
+  m_Name: 1B
+  m_EditorClassIdentifier: 
+  dialogues:
+  - dialogueId: 00
+    Name: Septiembre
+    line: "Ya he enviado un delegado a Sirlkind para comunicarse con las empresas\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 01
+    Name: Septiembre
+    line: "No deber\xEDa tardar m\xE1s de 3 d\xEDas, su instalaci\xF3n aqu\xED."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 02
+    Name: Septiembre
+    line: "En cuanto al cambio de moneda, Marzo y Abril\u2026\r"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 03
+    Name: ' Marzo y Abril'
+    line: "As\xED es!\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 04
+    Name: Marzo
+    line: "Era la \xFAnica soluci\xF3n y sab\xEDa que nuestro c\xF3nsul principal
+      la iba elegir."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 05
+    Name: Diciembre
+    line: "No\u2026 Era la \xFAnica soluci\xF3n\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 06
+    Name: octubre
+    line: "No, hab\xEDamos dado una soluci\xF3n\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 07
+    Name: Diciembre
+    line: 'Acabamos de permitir, que esos bastardos de Sirlkind, esas grandes empresas
+      sean las que controlen nuestro pueblo.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 08
+    Name: Diciembre
+    line: "Acabamos de destruir nuestra naci\xF3n y nuestro futuro.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 09
+    Name: Octubre
+    line: "\u2026 Lo que realmente perdimos fue nuestra <color=red>soberan\xEDa</color>...
+      Todo est\xE1 en manos de esas empresas.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 10
+    Name: Marzo
+    line: "\xBF\xA1Pero de qu\xE9 est\xE1n hablando!? \xBFNo ves que esto es el inicio
+      de una etapa de avances en Kandelia? "
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 11
+    Name: Abril
+    line: "\xA1Vamos a poder salvar a toda nuestra poblaci\xF3n! y generar avances
+      tecnol\xF3gicos de alto nivel en Kandelia.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 12
+    Name: Diciembre
+    line: "No\u2026 no\u2026 no. Ustedes no lo entienden\u2026 ustedes est\xE1n\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 13
+    Name: Octubre
+    line: "\xA1Cegados! No hay forma de dialogar y ya no hay vuelta atr\xE1s\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 14
+    Name: Octubre
+    line: "No me dejan m\xE1s opci\xF3n que\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 15
+    Name: Octubre
+    line: "Renunciar al cargo de c\xF3nsul."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 16
+    Name: Julio
+    line: "No puedes hacer esto, no nos puedes abandonar\u2026 \xA1Y mucho menos
+      a tu pueblo!\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 2
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 17
+    Name: Octubre
+    line: "Quiz\xE1s culturalmente, la renuncia del c\xF3nsul no est\xE1 considerada
+      o ni siquiera pensada\u2026 pero mi cargo ya no tiene sentido alguno\u2026
+      cualquier cosa que venga ahora en adelante, ya no tendr\xE1 sentido.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 18
+    Name: Octubre
+    line: "Por que, no concuerdo con ustedes\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 19
+    Name: Diciembre
+    line: "Entiendo y comprendo la situaci\xF3n igual de octubre. No veo otra opci\xF3n
+      viable m\xE1s que mi renuncia. Ya no pertenezco aqu\xED.\r\n\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 20
+    Name: ' Septiembre'
+    line: "Entonces\u2026 \xBF\xA1Eso es todo!?"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 21
+    Name: Octubre y Diciembre
+    line: "\xA1Si!"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 22
+    Name: 
+    line: "Octubre y Diciembre, se sacaron sus pa\xF1uelos azules de c\xF3nsules.
+      Y lo dejaron bruscamente en la mesa. Despu\xE9s procedieron a irse de la casa
+      de reuni\xF3n.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 23
+    Name: ' Marzo'
+    line: "No tiene la m\xE1s coherencia, \xBFc\xF3mo es que han renunciado a su
+      cargo? \r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 24
+    Name: Abril
+    line: "Simplemente no comprenden nuestra filosof\xEDa econ\xF3mica.\r"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 25
+    Name: Septiembre
+    line: "Si la entienden, solo que no quer\xEDan privatizar gran parte de nuestra
+      econom\xEDa y que sea controlada por otro estado.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 26
+    Name: Marzo
+    line: "\xBFA qu\xE9 te refieres?... Ellos no van a controlar nuestra econom\xEDa,
+      nosotros ejerceremos la soberan\xEDa, no hay manera de que las empresas sean
+      capaces de controlar a un ente regulador, como el estado."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 27
+    Name: Septiembre
+    line: "Si la hay, pero ya no merece explicarlo\u2026 ya no.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 28
+    Name: 
+    line: "Entiendo lo que est\xE1 tratando de decir Septiembre, pero no estoy seguro\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 29
+    Name: Abril
+    line: "\u2026 En cualquier caso, hay que seguir adelante, quiz\xE1s no entendieron
+      lo que propusimos, \xA1pero ver\xE1n como nos har\xE1 avanzar y mejorar!\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 30
+    Name: Abril
+    line: "\xBFVerdad\u2026?"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 31
+    Name: Marzo
+    line: Abril, no hay motivo de duda, estamos haciendo lo correcto.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 32
+    Name: Abril
+    line: "Es verdad\u2026 Si, tienes raz\xF3n.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 33
+    Name: Abril
+    line: "Deber\xEDamos prepararnos, y dar lo mejor de nosotros para que todo salga
+      bien."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 34
+    Name: ' Julio'
+    line: "\xA1As\xED es, debemos estar unidos, para dar lo mejor de nosotros!\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 35
+    Name: Septiembre
+    line: "Solo faltar\xEDa una cosa para confirmar\u2026 designar donde va a estar
+      la zona industrial\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 36
+    Name: Abril
+    line: Propongo designar la zona industrial, en un lugar alejado de las personas.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 37
+    Name: Marzo
+    line: "Espera, eso generar\xEDa gastos adicionales\u2026  Creo que deber\xEDamos
+      de utilizar las casas de distribuci\xF3n y convertirlas en las sedes industriales.
+      Solo tendr\xEDamos que hacer peque\xF1as modificaciones a las casas e identificarlas
+      con un n\xFAmero!\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 38
+    Name: ' Septiembre'
+    line: "\xBFEst\xE1 decidido entonces?\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 39
+    Name: Marzo y Abril
+    line: "\xA1Si!"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 40
+    Name: Septiembre
+    line: "Solo quedar\xEDa hacer el comunicado de nuestro nuevo sistema econ\xF3mico,
+      por ende, el uso de la moneda de Sirlkind va hacer ahora oficial."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 41
+    Name: Abril
+    line: "Dejamelo a mi, me encargar\xE9 de que los difundidores tengan la informaci\xF3n.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 42
+    Name: 
+    line: "Nos pasamos trabajando, sobre algunos detalles pendientes. Al terminar,
+      se finaliz\xF3 la reuni\xF3n y nos fuimos a nuestras casas."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 43
+    Name: 
+    line: "\xBFAcaso tome las decisiones correctas\u2026?  \u2026 \xBFHabr\xE1 alguna
+      manera de saberlo?\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 44
+    Name: 
+    line: "De camino a casa, quise observar por \xFAltima vez, la casa de distribuci\xF3n\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 494b970f2715fcc49a9011fdda96b005, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 45
+    Name: 
+    line: "Nuestra forma tradicional de producci\xF3n alimenticia, fue abandonada\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 46
+    Name: 
+    line: "Espero\u2026 que la decisi\xF3n que tome, no sea la equivocada\u2026"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 47
+    Name: 
+    line: "Attis no pierdas la cordura, has hecho lo correcto\u2026 Pero ahora que
+      lo pienso\u2026 \xBFA qu\xE9 se referir\xE1 Septiembre con lo planteado? Ella
+      desde un inicio no estuvo apoyando a ninguna idea\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 48
+    Name: 
+    line: "En cualquier caso\u2026 solo espero haber tomado la decisi\xF3n correcta."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 0
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  nextNovel: {fileID: 11400000, guid: f261e0308a2ead348b69c17df6c21d53, type: 2}
+  idLoad: 1B
+  idFC: 5
+  timeStartNovel: 5
+  isEnding: 0
+  TimeToCredits: 0

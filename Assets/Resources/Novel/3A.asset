@@ -1,0 +1,451 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fffa0133a6e0f49af55b75744b912a, type: 3}
+  m_Name: 3A
+  m_EditorClassIdentifier: 
+  dialogues:
+  - dialogueId: 00
+    Name: 
+    line: "Hoy es la ma\xF1ana del 23 de Julio, hace 5 d\xEDas de la reuni\xF3n con
+      los c\xF3nsules\u2026 Una semana."
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 2773f226351ed3942973b3c158158ddd, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 01
+    Name: 
+    line: "Desde hace una semana no salgo de mi casa\u2026\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 02
+    Name: 
+    line: "A pesar de mucha meditaci\xF3n y reflexi\xF3n, yo\u2026\r\n\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 03
+    Name: 
+    line: "Aun\u2026 No\u2026 pude decidir qu\xE9 hacer con lo planteado. \xBFIndustrializaci\xF3n
+      o producci\xF3n maximizada? Es mi desasosiego lo que predomina\u2026\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 04
+    Name: 
+    line: Acaso no es verlo de esta manera ciertamente dicoto-
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats:
+      - 6
+    - Type: 1
+      audioclip: 
+      Floats:
+      - 8
+    - Type: 3
+      audioclip: GolpePuerta
+      Floats:
+      - 6
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 05
+    Name: 
+    line: "\xBF\xA1Golpes de puerta!? \xBFqui\xE9n podr\xE1 ser?\r\n"
+    speed: 0.01
+    voice: {fileID: 0}
+    soundtrack: track_04
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 06
+    Name: Septiembre
+    line: "\xA1Julio, requerimos de una reuni\xF3n urgente!"
+    speed: 0.05
+    voice: {fileID: 8300000, guid: 0fdf891d0f2eaf442a8d8f280f2c6af7, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 6739f37e66dbdd1428d027bd2b5fbecf, type: 3}
+    effect:
+    - Type: 3
+      audioclip: PuertaAbriendose
+      Floats:
+      - 0
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 07
+    Name: Julio
+    line: "\xA1\xBFSeptiembre, que sucedi\xF3?!\r\n"
+    speed: 0.01
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: d64569266842229488afee769341aafc, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 08
+    Name: Septiembre
+    line: "Te lo dir\xE9 cuando lleguemos a la casa de la reuni\xF3n, los dem\xE1s
+      c\xF3nsules ya est\xE1n esperando.\r\n"
+    speed: 0.03
+    voice: {fileID: 8300000, guid: 8a20647f731154c478e93177fdc7dcd7, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 6739f37e66dbdd1428d027bd2b5fbecf, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 09
+    Name: Julio
+    line: "\xA1Okay! Espera a que organice algunas cosas y partimos juntos.\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: d64569266842229488afee769341aafc, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 10
+    Name: Septiembre
+    line: 'No te tardes mucho, el tiempo prioriza.
+
+
+
+'
+    speed: 0.03
+    voice: {fileID: 8300000, guid: e7e3152e6aeda464d90c8b36563b4195, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 6739f37e66dbdd1428d027bd2b5fbecf, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 11
+    Name: 
+    line: '...
+
+'
+    speed: 0.3
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 1
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 12
+    Name: Julio
+    line: 'Ya estoy lista, partamos.
+
+'
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 13
+    Name: 
+    line: "En el camino observe c\xF3mo la gente estaba exaltada, algo que ciertamente
+      es extra\xF1o."
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 3
+      audioclip: Caminar
+      Floats:
+      - 0
+    - Type: 3
+      audioclip: GenteMurmurando
+      Floats:
+      - 9
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 14
+    Name: 
+    line: "Al pasar finalmente por la casa de distribuci\xF3n que queda de camino
+      a la casa de reuni\xF3n, vi como el edificio estaba vac\xEDo y sin personas
+      trabajando.\r"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 494b970f2715fcc49a9011fdda96b005, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 15
+    Name: 
+    line: "Definitivamente algo andaba mal\u2026"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 3
+      audioclip: FrizaFria
+      Floats:
+      - 0
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 16
+    Name: 
+    line: "Hemos llegado, una vez m\xE1s, ese temor estaba de vuelta, es un escalofr\xEDo
+      tibio\u2026"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 17
+    Name: Septiembre
+    line: "Despu\xE9s de ti."
+    speed: 0.03
+    voice: {fileID: 8300000, guid: e388b8bd9cb71c54fa9569be2fcdce87, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 6739f37e66dbdd1428d027bd2b5fbecf, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 18
+    Name: 
+    line: "Me acerque a las puertas de la casa de la reuni\xF3n, tome fuerza y la
+      abr\xED.\r"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 1
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 1
+    KickOtherCharacter: 1
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  nextNovel: {fileID: 11400000, guid: 469b196b77f5619458e52f1809feae52, type: 2}
+  idLoad: 3A
+  idFC: 2
+  timeStartNovel: 10
+  isEnding: 0
+  TimeToCredits: 0

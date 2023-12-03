@@ -1,0 +1,1078 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fffa0133a6e0f49af55b75744b912a, type: 3}
+  m_Name: 2A
+  m_EditorClassIdentifier: 
+  dialogues:
+  - dialogueId: 00
+    Name: Julio
+    line: "Bienvenidos. Se ha de hablar en esta primera reuni\xF3n sobre nuestro
+      creciente pueblo, como mantenerlo a futuro, afrontando cualquier tipo de adversidad."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 07c30670dd70e834c902be62921a927d, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 01
+    Name: Septiembre
+    line: "\u2026 Entendido\u2026 Me veo en la obligaci\xF3n de presentarme, aunque
+      quiz\xE1s no haga falta: soy September Wilim, alias Septiembre."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 02
+    Name: Septiembre
+    line: "Quisiera comenzar la reuni\xF3n hablando de un tema en espec\xEDfico."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 03
+    Name: Septiembre
+    line: "Como dijo\u2026 nuestra principal consul, julio, tenemos un pueblo creciente\u2026
+      Somos 50.000 mil personas las cuales conviven en Kandelia."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 04
+    Name: Septiembre
+    line: "Debemos de entender, por ende, que nuestra forma de producci\xF3n es excelente."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 05
+    Name: Septiembre
+    line: "Pero\u2026 temo que\u2026 no lleguemos a abastecer a m\xE1s personas de
+      las que tenemos."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 06
+    Name: Septiembre
+    line: "D\xE9jenme explicar brevemente a lo que me refiero. No hay motivo de p\xE1nico."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 07
+    Name: Septiembre
+    line: "Entiendan lo siguiente: para que nuestro pueblo pueda ser m\xE1s grande,
+      debemos de crear un excedente."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 08
+    Name: Diciembre
+    line: "\xA1De qu\xE9 hablas!... Nosotros tenemos excedente!"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 09
+    Name: Septiembre
+    line: Aja, si eso es cierto, comentanos cuanto es el excedente del pueblo.
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 10
+    Name: Diciembre
+    line: "Espera, d\xE9jame confirmarlo ac\xE1 deber\xEDa de estar."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 11
+    Name: Diciembre
+    line: "\xA1Ac\xE1 est\xE1! es de un\u2026 3% m\xE1s del total\u2026 Tenes raz\xF3n,
+      hay muy poco excedente para crear un posible crecimiento poblacional."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 12
+    Name: Septiembre
+    line: "La realidad golpea fuerte, eh? Volviendo a lo que dec\xEDa\u2026"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 13
+    Name: Diciembre
+    line: Ahhhhhhhh!
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 14
+    Name: Septiembre
+    line: Debemos de buscar una forma de subir el excedente y mantener la calidad
+      de los alimentos.
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 15
+    Name: Marzo
+    line: "Considero la siguiente posibilidad: Estamos relativamente cerca de Sirlkind\u2026"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 16
+    Name: Marzo
+    line: "La metr\xF3polis con su creciente poblaci\xF3n, exige avances tecnol\xF3gicos
+      que le permitieran alimentar a grandes cantidades de personas. Se sabe que
+      hoy son aproximadamente 200.000 personas."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 17
+    Name: Marzo
+    line: "Estos avances fueron dados por las grandes empresas que dominan su mercado.
+      Ellos denominan este milagro como \u201CIndustrializaci\xF3n privada\u201D."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 18
+    Name: Marzo
+    line: "La gente est\xE1 fascinada con estos avances, hablan de lo milagroso que
+      es este fen\xF3meno."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 19
+    Name: Abril
+    line: "En efecto, estuve investigando al igual que Marzo, sobre este fen\xF3meno
+      de la industrializaci\xF3n."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 20
+    Name: Abril
+    line: "Considero que es excelente para la soluci\xF3n de este problema, planteado
+      por Septiembre. Pero habr\xEDa que hacer m\xFAltiples cambios en nuestra forma
+      de convivencia\u2026"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 21
+    Name: Abril
+    line: "Para que esto sea posible, se requiere del uso de la moneda, precisamente
+      la que usa Sirlkind, ya que as\xED le podr\xEDamos pagar a estas grandes empresas."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 22
+    Name: Abril
+    line: "Despu\xE9s de todo, esto ser\xEDa muy simple de realizar dada la cercan\xEDa
+      de Sirlkind. Hay que pagarle a estas empresas para que hagan una sede aqu\xED."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 23
+    Name: Septiembre
+    line: "\xBFPero, acaso son idiotas? \xBFSiquiera entienden lo que est\xE1n diciendo?
+      \xBF\xA1Ustedes quieren cambiar nuestra forma de producci\xF3n econ\xF3mica
+      a la de Sirlkind!?"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 24
+    Name: Septiembre
+    line: "\xA1Estar\xEDamos rompiendo con nuestra forma de producci\xF3n econ\xF3mica
+      tradicional!... Eso incluir\xEDa nuestra armoniosa forma de distribuci\xF3n
+      a cada uno de nuestros habitantes."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 25
+    Name: Abril
+    line: "Ese ser\xEDa nuestro sacrificio a realizar\u2026"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 26
+    Name: Marzo
+    line: "\xA1Pero tan solo piensa en estos avances! Son la clave para el futuro
+      de nuestra comunidad."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 27
+    Name: Abril
+    line: Todo avance requiere de un sacrificio.
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 28
+    Name: Septiembre
+    line: ...
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 29
+    Name: Octubre
+    line: "\u2026 Estuve pensando\u2026 y lo que proponen Marzo y Abril, est\xE1
+      hasta cierto punto acertado."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 30
+    Name: Octubre
+    line: "Quiz\xE1s lo \xFAnico que est\xE1 bien de su propuesta, es adoptar el
+      sistema econ\xF3mico de Sirlkind pero nunca dejar entrar a esos bastardos a
+      nuestra naci\xF3n."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 31
+    Name: Diciembre
+    line: "\xA1Es perfecta esa idea! podemos crear la propia moneda de Kandelia y
+      generar nuestros \u201Cavances tecnol\xF3gicos\u201D."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 32
+    Name: Octubre
+    line: "As\xED es. Podemos aprovechar nuestras llanuras para la superproducci\xF3n
+      de un producto."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 33
+    Name: Octubre
+    line: "Debemos de designar regiones espec\xEDficas para un solo cultivo, adem\xE1s
+      de hacer que los productores paguen para tener m\xE1s territorios."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 34
+    Name: Diciembre
+    line: Es posible que cuando nos expandamos, nos encontremos con un bosque.
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 35
+    Name: Diciembre
+    line: "En ese caso, es f\xE1cil, hay que aprovechar la madera para crear un mercado,
+      el mercado de la madera."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 36
+    Name: Octubre
+    line: "Fascinante agregado a mi idea, eso debe de conformar esta propuesta\u2026
+      creo que la llamar\xE9\u2026"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 37
+    Name: Octubre
+    line: "Producci\xF3n maximizada nacional\u2026"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 38
+    Name: Septiembre
+    line: "Pedazos in\xFAtiles, semejante idiotez no antes proclamada."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 39
+    Name: Septiembre
+    line: "Tu idea ser\xE1 como la de la producci\xF3n industrializada: crear\xE1
+      una divisi\xF3n social, romper\xE1 con la armon\xEDa de nuestra forma de producir
+      y destruir\xE1 nuestro para\xEDso natural."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 40
+    Name: Septiembre
+    line: "Adem\xE1s, esto de la \u201Cnaci\xF3n\u201D crear\xE1 un odio hacia todo
+      aquel ajeno de la comunidad. Un \u201Cnosotros\u201D y el \u201Cotro\u201D,
+      \xBFverdad?"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 41
+    Name: Diciembre
+    line: "Ser\xE1 necesario para que esto sea posible\u2026"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 42
+    Name: Octubre
+    line: "Tiene que ser as\xED, para poder avanzar, debe de haber un sacrificio\u2026"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 43
+    Name: Julio
+    line: "\u2026 Entiendo, que cada uno ya ha propuesto sus ideas \u2026"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 44
+    Name: Julio
+    line: "\xBFHay acaso alguien m\xE1s que quiera comentar algo?"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 45
+    Name: Sala de reunion
+    line: ...
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 46
+    Name: Julio
+    line: "Entonces ya no hay nada m\xE1s que sugerir. Para nuestra pr\xF3xima reuni\xF3n
+      ya habr\xE9 decidido entre sus propuestas, sin embargo, no es un tema que exige
+      urgencia, as\xED que meditar\xE9 profundamente nuestras opciones."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 47
+    Name: Julio
+    line: "Dicho esto, nuestra reuni\xF3n finaliza aqu\xED."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 48
+    Name: 
+    line: "Salude a todos\u2026 y proced\xED a abrir las puertas de la casa de reuni\xF3n
+      para volver a mi casa, haciendo el mismo recorrido de ida pero al rev\xE9s."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 07c30670dd70e834c902be62921a927d, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 49
+    Name: 
+    line: Camine discretamente hasta llegar a mi casa.
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 50
+    Name: 
+    line: "Voy a meditar y comenzar con mi evaluaci\xF3n de la situaci\xF3n una vez
+      llegue\u2026"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  nextNovel: {fileID: 11400000, guid: 7e3d998071ac5c54fb5144da87abbc1c, type: 2}
+  idLoad: 2A
+  idFC: 1
+  timeStartNovel: 5
+  isEnding: 0
+  TimeToCredits: 0

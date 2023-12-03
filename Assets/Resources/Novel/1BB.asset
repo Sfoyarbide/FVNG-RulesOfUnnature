@@ -1,0 +1,784 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fffa0133a6e0f49af55b75744b912a, type: 3}
+  m_Name: 1BB
+  m_EditorClassIdentifier: 
+  dialogues:
+  - dialogueId: 00
+    Name: ' Fernando'
+    line: "Est\xE1 bien, no hay ning\xFAn problema."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 01
+    Name: ' Fernando'
+    line: "Es entendible que hayas tomado esa decisi\xF3n, despu\xE9s de todo es
+      informaci\xF3n delicada."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 02
+    Name: ' Fernando'
+    line: "De todos modos, no puedo estar aqu\xED, debo irme."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 03
+    Name: ' Fernando'
+    line: Fue un placer, a pesar de no aceptar mi trato.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 04
+    Name: ' Fernando'
+    line: "Y es as\xED como Fernando ciertamente decepcionado procede a irse."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 05
+    Name: Septiembre
+    line: "No\u2026 No\u2026 Yo cre\xED que en ti."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 06
+    Name: Septiembre
+    line: "Cre\xED que elegir\xEDas la opci\xF3n correcta\u2026 la opci\xF3n que
+      nos dar\xEDa la verdad de todo esto.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 07
+    Name: Septiembre
+    line: "\u2026 Acomp\xE1\xF1enme todos,  debo mostrarles algo."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 08
+    Name: Septiembre
+    line: "Tan solo acomp\xE1\xF1enme, les voy a mostrar mi inspiraci\xF3n para investigar
+      estas grandes empresas.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 09
+    Name: Septiembre
+    line: Todos seguimos a Septiembre.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 10
+    Name: 
+    line: En un silencio impermutable.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 11
+    Name: 
+    line: "Hasta que finalmente llegamos\u2026"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 12
+    Name: 
+    line: A una zona repleta de casas cercana a la zona industrial 8.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: '13 '
+    Name: 
+    line: "Se pueden ver diferentes casas que algunas est\xE1n en refacci\xF3n, ampli\xE1ndose
+      para arriba.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 14
+    Name: 
+    line: "No pude razonar ning\xFAn tipo de problema que ten\xEDa todo esto."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 15
+    Name: 
+    line: 'Hasta que finalmente, me percate de algo.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 16
+    Name: 
+    line: "Al parecer unas personas, que en un principio no tendr\xEDan nada de malo."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 17
+    Name: 
+    line: "Me acerqu\xE9 un poco m\xE1s, y finalmente lo pude ver.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 18
+    Name: 
+    line: 'Es una familia durmiendo en una colcha en la calle, con tan solo un acolchado
+      puesto encima.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 19
+    Name: 
+    line: "Una familia compuesta de una mujer, un hombre y una ni\xF1a."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 20
+    Name: 
+    line: 'Todos ellos durmiendo en una misma colcha con apenas un acolchado, en
+      una noche de invierno.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 21
+    Name: 
+    line: "Al parecer ten\xEDan al lado de la colcha unas latas de arvejas de una
+      de las empresas nuevas."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 22
+    Name: 
+    line: Era una familia sin un hogar al que vivir y sin ya un trabajo.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 23
+    Name: Septiembre
+    line: "\xBFAhora entienden?\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 24
+    Name: Abril
+    line: No puede ser verdad.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 25
+    Name: Septiembre
+    line: "\xBFAhora lo captan?"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 26
+    Name: Marzo
+    line: Debe de ser una mentira.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 27
+    Name: Septiembre
+    line: "Nosotros no solo implementamos un sistema capitalista, adem\xE1s trajimos
+      consigo empresas que sus acciones en nuestro territorio son ahora y ser\xE1n
+      para siempre desconocidas.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 28
+    Name: Septiembre
+    line: "Pero quiz\xE1s lo m\xE1s importante no sea saber que hacen o que ahora
+      pr\xE1cticamente controlan nuestra producci\xF3n y que dependemos totalmente
+      de ella.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 29
+    Name: Septiembre
+    line: "Sino que el mismo capitalismo es la forma de reproducci\xF3n de la desigualdad
+      social por su forma sistem\xE1tica de ser.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 29
+    Name: Septiembre
+    line: "Sino que el mismo capitalismo es la forma de reproducci\xF3n de la desigualdad
+      social por su forma sistem\xE1tica de ser.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 30
+    Name: Septiembre
+    line: "Tan solo mira, mira como una familia: Un hombre, una mujer y una ni\xF1a
+      que apenas pueden comer y detr\xE1s tienen casas que incluso se est\xE1n modernizando
+      con la tecnolog\xEDa de Sirlkind, que en pocas palabras est\xE1n sufriendo
+      un proceso de gentrificaci\xF3n.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 31
+    Name: Abril
+    line: "\xBF\xA1Que hemos hecho?!\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 32
+    Name: Marzo
+    line: "Cre\xEDmos que esto era la soluci\xF3n correcta, no solo porque dejar\xEDa
+      la desigualdad sino que supuestamente creceremos con la misma.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 33
+    Name: Septiembre
+    line: "Pero en realidad\u2026"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 34
+    Name: Septiembre
+    line: "Nosotros no solo perdimos nuestra soberan\xEDa alimentaria."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 9f3441ee09ede684e8b5170d49edd430, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 35
+    Name: Septiembre
+    line: Sino que perdimos nuestra igualdad.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 2773f226351ed3942973b3c158158ddd, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  nextNovel: {fileID: 0}
+  idLoad: 1BB
+  idFC: 11
+  timeStartNovel: 5
+  isEnding: 1
+  TimeToCredits: 0

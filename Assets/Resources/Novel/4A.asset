@@ -1,0 +1,357 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fffa0133a6e0f49af55b75744b912a, type: 3}
+  m_Name: 4A
+  m_EditorClassIdentifier: 
+  dialogues:
+  - dialogueId: 00
+    Name: Septiembre
+    line: "Finalmente hemos llegado. Expliquenle la situaci\xF3n actual al c\xF3nsul
+      principal.\r\n"
+    speed: 0.03
+    voice: {fileID: 8300000, guid: 6472392473bc2c8488266dd69304aeec, type: 3}
+    soundtrack: track_04
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 07c30670dd70e834c902be62921a927d, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 8bdee9e33f518e64b8bfa83a3fce5320, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 01
+    Name: Diciembre
+    line: "Lo podemos resumir en lo siguiente\u2026"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 1
+    character:
+    - {fileID: 21300000, guid: d64569266842229488afee769341aafc, type: 3}
+    - {fileID: 21300000, guid: 0b18d1b0a0ea298458bb69c7866750f4, type: 3}
+    - {fileID: 21300000, guid: 6739f37e66dbdd1428d027bd2b5fbecf, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 02
+    Name: Diciembre
+    line: "Tenemos\u2026 los siguientes datos\u2026 La producci\xF3n de alimentos
+      est\xE1 pr\xE1cticamente paralizada, estamos sobreviviendo a base de reservas."
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 0}
+    - {fileID: 21300000, guid: ab01fd33f1661a447bf821aa1e161940, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 03
+    Name: Julio
+    line: "\xA1Expliquenme el porqu\xE9!\r\n"
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 04
+    Name: Abril
+    line: "Julio es el mes del invierno\u2026 21 de Julio es cuando comienza, parad\xF3jicamente,
+      tu mes.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 1
+    character:
+    - {fileID: 21300000, guid: 8efe3bd79e8fc6544b5a9536d9df0bed, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 05
+    Name: Julio
+    line: "No deber\xEDamos tener ning\xFAn problema en invierno, nuestro sistema
+      tradicional est\xE1 preparado, \xBFc\xF3mo es que acaso esto sucedi\xF3?\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 06
+    Name: Octubre
+    line: "Seg\xFAn fuentes meteorol\xF3gicas de Sirlkind, en la madrugada del 25
+      de julio, hubo una bajada del viento helado de las monta\xF1as del oeste. \r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 1
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: d64569266842229488afee769341aafc, type: 3}
+    - {fileID: 21300000, guid: aac3866bacfee2f43942ebaffe6dd18f, type: 3}
+    - {fileID: 21300000, guid: 88d47b045730cbf42a8dc561d9556fdf, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 07
+    Name: Octubre
+    line: "El pico m\xEDnimo lleg\xF3 a alcanzar entre -20\xB0 y -30\xB0 bajo cero\u2026"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 08
+    Name: Julio
+    line: "No\u2026 no puede ser, no\u2026 no, no esto no puede estar pasando\u2026\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: d64569266842229488afee769341aafc, type: 3}
+    - {fileID: 21300000, guid: d64569266842229488afee769341aafc, type: 3}
+    - {fileID: 21300000, guid: d64569266842229488afee769341aafc, type: 3}
+    effect:
+    - Type: 2
+      audioclip: 
+      Floats:
+      - 0
+      - 5
+    - Type: 3
+      audioclip: CorazonLatiendo
+      Floats:
+      - 1
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 09
+    Name: Julio
+    line: "Lo que est\xE1n tratando de decirme es que Kandelia\u2026 \xBFperdi\xF3
+      todas sus granjas y producciones de alimento?."
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 10
+    Name: Marzo
+    line: "En efecto\u2026 no hay ninguna granja en pie\u2026 los \xE1nimos de nuestras
+      personas est\xE1n por el piso\u2026\r\n"
+    speed: 0.05
+    voice: {fileID: 8300000, guid: fb296c56ff194ab478098303a8cc720b, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: e1abc5c366236314387b1cac1f66b8f6, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 11
+    Name: Marzo
+    line: "Creo que no hace falta decirlo, pero si no actuamos dentro de poco,  la
+      gente va empezar a morir\u2026"
+    speed: 0.03
+    voice: {fileID: 8300000, guid: 1d39e770ff44a7449b1e60ba2d9748af, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 8fa34ff434045ee4fa747826b42533d4, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 12
+    Name: Septiembre
+    line: "Julio\u2026 odio decir esto, pero\u2026 tenes que tomar una decisi\xF3n.\r"
+    speed: 0.03
+    voice: {fileID: 8300000, guid: 7a4db39d597b7894a835cef1bfd7a92b, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 1
+    character:
+    - {fileID: 21300000, guid: 6739f37e66dbdd1428d027bd2b5fbecf, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 13
+    Name: Septiembre
+    line: "Las propuestas dichas en la reuni\xF3n anterior\u2026 podr\xEDan ayudarnos
+      a salir de esta situaci\xF3n.\r\n"
+    speed: 0.03
+    voice: {fileID: 8300000, guid: 3b76c529b3118474d9269fed80e94d14, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 14
+    Name: Septiembre
+    line: "No nos queda m\xE1s tiempo, tiene que ser ahora, sin embargo, te dejaremos
+      un poco de tiempo para que lo decidas."
+    speed: 0.05
+    voice: {fileID: 8300000, guid: fbf89bfd867df9d45825ff5b00e24cfd, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 4c65b8541613bab4e95c7c036671478d, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  nextNovel: {fileID: 11400000, guid: f3038c96882361d4284e0f32a900bb7a, type: 2}
+  idLoad: 4A
+  idFC: 3
+  timeStartNovel: 3
+  isEnding: 0
+  TimeToCredits: 0

@@ -1,0 +1,1704 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fffa0133a6e0f49af55b75744b912a, type: 3}
+  m_Name: 4B
+  m_EditorClassIdentifier: 
+  dialogues:
+  - dialogueId: 00
+    Name: 
+    line: "Han pasado dos d\xEDas desde que Septiembre se ha ido en busca de informaci\xF3n.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 01
+    Name: 
+    line: "El mero hecho de que sean 2 d\xEDas, me est\xE1 abrumando.\r\n\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 02
+    Name: 
+    line: "Entiendo, por ende, Septiembre debe estar cerca de finalizar su investigaci\xF3n\u2026
+      o quiz\xE1s no\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 03
+    Name: 
+    line: 'Simplemente solo tengo que esperar a que termine.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 04
+    Name: 
+    line: "Pero tengo que esperar para poder realizar alguna acci\xF3n\u2026 Debo
+      de tener la informaci\xF3n.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 05
+    Name: 
+    line: "\xA1\u2026!"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 06
+    Name: 
+    line: "\xA1Debe de ser ella, Septiembre!\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 07
+    Name: Julio
+    line: "\xA1Espera ah\xED abro!"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 08
+    Name: 
+    line: "Corr\xED r\xE1pidamente hacia la puerta y la abr\xED.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 09
+    Name: 
+    line: "Ah\xED estaba\u2026 Septiembre."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 10
+    Name: Septiembre
+    line: "6 pm, nos juntaremos todos en la casa de Reuni\xF3n, y luego partiremos
+      hacia un lugar."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 11
+    Name: Septiembre
+    line: "Te esperar\xE9 ah\xED, no llegues tarde."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 12
+    Name: Julio
+    line: "Con esas palabras\u2026 Septiembre parti\xF3."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 13
+    Name: 
+    line: "No podr\xEDa decir mucho, la prepotencia con la que me lo dijo, fue tal
+      que simplemente decid\xED aceptar la propuesta asistiendo con cabeza.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 14
+    Name: 
+    line: "No me sal\xEDa la posibilidad de decir que no.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 15
+    Name: 
+    line: "Actualmente eran las 4:30 pm, deb\xEDa estar lista en la casa de Reuni\xF3n
+      aproximadamente 6:00 pm."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 16
+    Name: 
+    line: "Tengo el suficiente tiempo como para ir y volver. \r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 17
+    Name: 
+    line: "Lo prudente ser\xEDa partir a las 5 pm, para evitar llegar primera."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 18
+    Name: 
+    line: 'Ya eran las 5 pm, y  me encontraba ya en camino.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 19
+    Name: 
+    line: "El sol a\xFAn estaba a la vista, aunque no le queda mucho tiempo.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 20
+    Name: 
+    line: "Una vez m\xE1s pude observar la zona industrial - 4 en su explendor.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 21
+    Name: 
+    line: "La primera vez lo hab\xEDa visto, pens\xE9 que era admirable. Despu\xE9s
+      de todas las consecuencias buenas que nos trajo, pero ahora ya no puedo decir
+      lo mismo.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 22
+    Name: 
+    line: "Adem\xE1s atmosf\xE9ricamente es oscuro y lleno de humo.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 23
+    Name: 
+    line: "Prosegu\xED con mi camino\u2026"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 24
+    Name: 
+    line: 'Hubo una cosa que me hizo ruido. Las zonas industriales dejan de trabajar
+      a las 6:00 pm pero los campos del mismo trabajan incluso hasta las 8 pm.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 25
+    Name: 
+    line: "\xBFPor qu\xE9 Septiembre nos har\xE1 ir a un supuesto lugar a las 6:00
+      pm?\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 26
+    Name: 
+    line: 'Debo dejar de ser tan paranoica, y esperar a que sucedan las cosas.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 27
+    Name: 
+    line: "Finalmente hab\xEDa llegado hasta mi objetivo, la casa de reuni\xF3n.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 28
+    Name: 
+    line: "Deber\xEDan ser las 5:40 o 5:50, aproximadamente.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 29
+    Name: 
+    line: "Sin embargo, nadie estaba ah\xED aun."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 30
+    Name: 
+    line: "Espere unos minutos m\xE1s\u2026\r\n\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 31
+    Name: 
+    line: "Y empezaron a aparecer los dem\xE1s."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 32
+    Name: 
+    line: Primero Abril.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 33
+    Name: 
+    line: Luego Marzo.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 34
+    Name: 
+    line: "y finalmente \xFAltima\u2026 Septiembre.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 35
+    Name: 
+    line: "Septiembre, parec\xEDa ciertamente preocupada, pero antes de preguntarle
+      su situaci\xF3n actual, decid\xED que ella comenzara la reuni\xF3n, con el
+      por que de su anticipo.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 36
+    Name: Septiembre
+    line: 'Gracias a todos por venir.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 37
+    Name: Septiembre
+    line: "Todos posiblemente deben preguntarse por qu\xE9 estamos aqu\xED.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 38
+    Name: Septiembre
+    line: 'La respuesta, es simple de adivinar. '
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 39
+    Name: Septiembre
+    line: "He conseguido informaci\xF3n.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 40
+    Name: Septiembre
+    line: "Solo que la tenemos que ir a buscar y adem\xE1s presenciar.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 41
+    Name: Abril
+    line: "Debo de preguntar sin embargo, \xBFc\xF3mo la has conseguido?\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 42
+    Name: Septiembre
+    line: "Eso es actualmente lo que menos nos deber\xEDa de importar.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 43
+    Name: Marzo
+    line: "\xBFPuedes comentarnos donde la vamos a ir a buscar?\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 44
+    Name: Septiembre
+    line: 'Al igual que antes, no nos importa.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 45
+    Name: Septiembre
+    line: "Lo \xFAnico que nos importa actualmente, es saber lo que dice esta dichosa
+      informaci\xF3n."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 46
+    Name: 
+    line: "\xBFQu\xE9 informaci\xF3n habr\xE1 conseguido? \xBFPor qu\xE9 tanto secretismo?\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 47
+    Name: Julio
+    line: "Coincido con Septiembre, deber\xEDamos acompa\xF1arnos para ir a buscar
+      la informaci\xF3n.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 48
+    Name: Julio
+    line: "Septiembre, gu\xEDa el camino."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 49
+    Name: Septiembre
+    line: 'Entendido.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 50
+    Name: 
+    line: "Empezamos a partir\u2026 al parecer hay una cierta prisa de parte de Septiembre.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 51
+    Name: 
+    line: "Solo espero que todo salga bien y que no hayamos hecho lo incorrecto\u2026\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 52
+    Name: ' Marzo'
+    line: "\xA1Septiembre! \xA1Por favor, te lo preguntar\xE9 una vez m\xE1s, y por
+      favor respondeme!"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 53
+    Name: ' Septiembre'
+    line: No.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 54
+    Name: Marzo
+    line: Ohhh, por favor.
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 55
+    Name: Septiembre
+    line: 'No.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 56
+    Name: 
+    line: "Estamos muy cerca de una zona industrial nunca antes vista por mi, la
+      zona industrial - 7, y adem\xE1s son aproximadamente las 6:20.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 57
+    Name: 
+    line: "\xBFQu\xE9 es lo que est\xE1 tramando Septiembre?\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 58
+    Name: 
+    line: "Conf\xEDo plenamente en ella, pero quiz\xE1s no deber\xEDa ser de esa
+      manera."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 59
+    Name: ' Septiembre'
+    line: 'Estamos relativamente cerca.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 60
+    Name: Julio, Marzo y Abril
+    line: "\xA1...!\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 61
+    Name: ' Septiembre'
+    line: "As\xED que esc\xFAchenme bien, la informaci\xF3n la estamos obteniendo
+      de un jefe importante de una de las empresas, que est\xE1 relativamente enojado
+      con la misma, como para vender informaci\xF3n interna.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 62
+    Name: ' Septiembre'
+    line: 'A esta hora, ya no hay nadie presente en la zona industrial - 7.
+
+'
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 63
+    Name: ' Septiembre'
+    line: "As\xED que tendremos v\xEDa libre para hablar con \xE9l. Para que \xE9l
+      mismo nos identifique debemos decir \u201CFernando es el mejor\u201D.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 64
+    Name: ' Septiembre'
+    line: "As\xED que, si alguien menciona algo no relacionado, nuestro contacto
+      se ir\xE1, sin decir la anterior frase."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 65
+    Name: ' Septiembre'
+    line: "As\xED que no hagan idioteces."
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 66
+    Name: ' Septiembre'
+    line: "Una vez que le digamos la frase, \xE9l mismo nos preguntar\xE1 si estamos
+      seguros de obtener la informaci\xF3n, eso va a ser decisi\xF3n tuya, Julio.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 67
+    Name: ' Septiembre'
+    line: "Yo creo que tomar\xE1s la opci\xF3n correcta.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 68
+    Name: 
+    line: "\xBF\xA1...!?\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 69
+    Name: 
+    line: "Ya estamos aqu\xED.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c791ec2dae080014c92fea4149868791, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 70
+    Name: Abril y Marzo
+    line: "\xA1Espera!"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c791ec2dae080014c92fea4149868791, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 71
+    Name: Septiembre
+    line: "Ya no hay tiempo para idioteces, ustedes decidieron tomar esta decisi\xF3n,
+      es decir este camino y ahora deben aceptar las consecuencias.\r\n"
+    speed: 0
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c791ec2dae080014c92fea4149868791, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 1
+      audioclip: 
+      Floats: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  nextNovel: {fileID: 11400000, guid: f946aefbe3a3b354d933dbbf25b7de6c, type: 2}
+  idLoad: 5B
+  idFC: 8
+  timeStartNovel: 3
+  isEnding: 0
+  TimeToCredits: 0

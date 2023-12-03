@@ -1,0 +1,190 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fffa0133a6e0f49af55b75744b912a, type: 3}
+  m_Name: Test1
+  m_EditorClassIdentifier: 
+  dialogues:
+  - dialogueId: 00
+    Name: Santiago Oyarbide
+    line: Quizas, el fin del mundo esta cerca...
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 1f5a98c849d8e2646a22e55c7a845503, type: 3}
+    effect:
+    - Type: 3
+      audioclip: GenteMurmurando
+      Floats:
+      - 0
+      - 0
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 0000000000000000
+      NameScene: []
+  - dialogueId: 01
+    Name: Nicolas Ledesma
+    line: Como!?
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 494b970f2715fcc49a9011fdda96b005, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: d64569266842229488afee769341aafc, type: 3}
+    - {fileID: 21300000, guid: 4c65b8541613bab4e95c7c036671478d, type: 3}
+    - {fileID: 21300000, guid: 66cddbc417f9e4c4a93d5797f8c419fd, type: 3}
+    effect:
+    - Type: 2
+      audioclip: 
+      Floats:
+      - 0
+      - 3.2
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel:
+      - {fileID: 0}
+      index: 
+      NameScene: []
+  - dialogueId: 02
+    Name: Ian Fridman
+    line: Refuto esa posibilidad!
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: ab2c7ca46d9bad642aec11bf61d5e7f7, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: d64569266842229488afee769341aafc, type: 3}
+    - {fileID: 21300000, guid: a17f143400ecdf94d83cad1691a9e248, type: 3}
+    - {fileID: 21300000, guid: 1196e98d6b98b324fb10fcb2b3f57c30, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel:
+      - {fileID: 0}
+      index: 0000000000000000
+      NameScene: []
+  - dialogueId: 03
+    Name: Franco Venosa
+    line: Ian, explica tu argumento.
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 07c30670dd70e834c902be62921a927d, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 1
+    character:
+    - {fileID: 21300000, guid: a3b18aeb88307e940920e8f5248c9c9b, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options:
+      - Si pibe.
+      - No pibe.
+      WhatToChange: 1
+      novel: []
+      index: 0400000006000000
+      NameScene: []
+  - dialogueId: 04-(02A)
+    Name: Ian Fridman
+    line: La argumentacion....
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 1
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 1196e98d6b98b324fb10fcb2b3f57c30, type: 3}
+    effect: []
+    options:
+      HaveOptions: 1
+      options:
+      - No gordo.
+      - Si gordo.
+      WhatToChange: 0
+      novel:
+      - {fileID: 11400000, guid: ef14a8c18aeba6d478aaf48416632dce, type: 2}
+      - {fileID: 11400000, guid: dd7f7c77c7bad934b86648b8f972a61d, type: 2}
+      index: 
+      NameScene: []
+  - dialogueId: AUX-5
+    Name: Ian Fridman
+    line: ...
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 1196e98d6b98b324fb10fcb2b3f57c30, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 1
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 05-(02B)
+    Name: Ian Fridman
+    line: No, nunca...
+    speed: 0.03
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 1
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 1196e98d6b98b324fb10fcb2b3f57c30, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 1
+      novel: []
+      index: 
+      NameScene: []
+  nextNovel: {fileID: 11400000, guid: ef14a8c18aeba6d478aaf48416632dce, type: 2}
+  idLoad: Test1
+  idFC: 0
+  timeStartNovel: 2
+  isEnding: 0
+  TimeToCredits: 0

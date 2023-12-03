@@ -1,0 +1,598 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fffa0133a6e0f49af55b75744b912a, type: 3}
+  m_Name: 2B
+  m_EditorClassIdentifier: 
+  dialogues:
+  - dialogueId: 00
+    Name: 
+    line: "Reci\xE9n me he despertado\u2026 No recuerdo exactamente c\xF3mo pude
+      dormir, estaba pensando como mi decisi\xF3n podr\xEDa afectar a nuestra poblaci\xF3n.\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: track_02
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 2773f226351ed3942973b3c158158ddd, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 01
+    Name: 
+    line: "Las empresas ya est\xE1n establecidas, nuestro sistema agr\xEDcola cambiado
+      y la moneda de Sirlkind ya establecida. \r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 02
+    Name: 
+    line: "Aun algunos de nuestros productores no se han adaptado a los cambios\u2026\r\n\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 03
+    Name: 
+    line: "Y la gente, a\xFAn no se ha adaptado a estas circunstancias\u2026\r\n\n\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 04
+    Name: 
+    line: 'Sin embargo, obviando algunos de estos hechos es innegable e irrefutable
+      que cualquier problema relacionado a la comida, ha sido solucionado.
+
+'
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 05
+    Name: 
+    line: "Ayer Septiembre, me dio las estad\xEDsticas exactas\u2026 Es emp\xEDricamente
+      un hecho que mi decisi\xF3n que me han propuesto, ha funcionado.\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 06
+    Name: 
+    line: "Adem\xE1s de lo anterior Septiembre, me confirm\xF3 que hoy, 29 de Julio,
+      hay una reuni\xF3n.\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 07
+    Name: 
+    line: "Creo haber tomado la decisi\xF3n correcta y \xA1me encuentro feliz de
+      ello!\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 08
+    Name: 
+    line: "M\xE1s all\xE1 de todas las consecuencias negativas vistas hasta el momento."
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 09
+    Name: 
+    line: Comprendo que hemos hecho en conjunto un gran trabajo.
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 10
+    Name: 
+    line: "Pero aun, sigo sin comprender el por qu\xE9 de las acciones tomadas por
+      Octubre y Diciembre\u2026 \xBFHab\xEDa una forma de que todos sigamos aqu\xED?\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 11
+    Name: 
+    line: "No\u2026 Ya da igual, debo de pensar en presente y no en el pasado, tengo
+      que enfocarme en cuidar a mi gente.\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 12
+    Name: 
+    line: "Me dirijo a la reuni\xF3n\u2026"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 13
+    Name: 
+    line: Estoy cerca de lo que es ahora, la zona industrial - 4, he escuchado diferentes
+      murmullos de personas, pero ninguna pareciera ser por mi presencia sino por
+      la zona industrial y los cambios.
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 3
+      audioclip: GenteMurmurando
+      Floats:
+      - 3
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 14
+    Name: 
+    line: "Mi intriga es abundante, tengo cierta curiosidad de como se ve esta industrializaci\xF3n
+      privatizada.\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 15
+    Name: 
+    line: "Lo que antes era la casa de distribuci\xF3n es ahora la zona industrial
+      - 4, ya me falta poco para llegar, sin embargo quisiera ver como se ve esta
+      zona industrial.\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 1
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 16
+    Name: Attis
+    line: "\xBFAsique esto es una zona industrial?\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: track_03
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 17
+    Name: 
+    line: "Mi estupor me dej\xF3 paralizada durante un minuto.\r"
+    speed: 0.08
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 18
+    Name: 
+    line: "\xBFAcaso no es\u2026 admirable?\r\n"
+    speed: 0.08
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 5
+      audioclip: 
+      Floats:
+      - 0.5
+      - 0.1
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 19
+    Name: 
+    line: "He le\xEDdo en diferentes documentos que la forma de denominar el sistema
+      econ\xF3mico de Sirlkind era \u201CCapitalismo\u201D, que entiende la propiedad
+      privada como una pieza importante para el funcionamiento de una sociedad y
+      que la complejidad del mismo era demasiada."
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 20
+    Name: 
+    line: "Entiendo por ende, que ahora pertenecemos a esta idea capitalista. Por
+      lo que le\xED es asombroso la posibilidad de que cada uno pueda gozar los beneficios
+      del fruto de su trabajo.\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 21
+    Name: 
+    line: "Pero tambi\xE9n muchos documentos plantean que el capitalismo es creador
+      de algo llamado \u201Cdesigualdad\u201D, concepto que comprende que en diferentes
+      \xE1mbitos de la vida no hay una equidad entre las personas."
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 22
+    Name: 
+    line: "\xBFPero esto es realmente as\xED? Nosotros con esta decisi\xF3n, destruimos
+      esta desigualdad que existir\xEDa entre la gente por la cantidad de alimentos
+      que ten\xEDan en sus reservas."
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 23
+    Name: 
+    line: "Sin embargo, la industria basada en la superproducci\xF3n que genera el
+      capitalismo\u2026 Las zonas industriales, las f\xE1bricas que tengo enfrente
+      m\xEDo, pero tambi\xE9n acaso no ciertamente espeluznantes sabiendo lo anterior?"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: c13c412c6411a2649ad65cdb10bc281e, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 24
+    Name: 
+    line: "En cualquier caso deber\xEDa de seguir para llegar a la casa de reuni\xF3n."
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 25
+    Name: 
+    line: "Es demasiada incertidumbre, con casi todas preguntas ret\xF3ricas, deberia
+      de seguir...\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 26
+    Name: 
+    line: "Acabo de llegar a la casa de reuni\xF3n\u2026 Espero que lo que salga
+      de esta reuni\xF3n sea positivo.\r\n"
+    speed: 0.05
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 1
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  nextNovel: {fileID: 11400000, guid: cefbba01366b90f45af1702c4c979c5b, type: 2}
+  idLoad: 2B
+  idFC: 7
+  timeStartNovel: 3
+  isEnding: 0
+  TimeToCredits: 0

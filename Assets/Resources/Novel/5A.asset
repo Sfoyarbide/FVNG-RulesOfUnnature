@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fffa0133a6e0f49af55b75744b912a, type: 3}
+  m_Name: 5A
+  m_EditorClassIdentifier: 
+  dialogues:
+  - dialogueId: 00
+    Name: 
+    line: "Voy a lograrlo\u2026 Voy a elegir la opci\xF3n que ayude a nuestro pueblo\u2026
+      lo voy a hacer\u2026"
+    speed: 0.08
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 07c30670dd70e834c902be62921a927d, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 01
+    Name: 
+    line: "Solo conf\xEDa en ti Attis, solo conf\xEDa en ti\u2026"
+    speed: 0.08
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 02
+    Name: Septiembre
+    line: "Julio\u2026 Attis, se ha cumplido el tiempo l\xEDmite\u2026 Es hora de
+      que nos digas tu decisi\xF3n.\r"
+    speed: 0.03
+    voice: {fileID: 8300000, guid: 3c9c7f5dea2c20a41b1b531c5026910b, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 6739f37e66dbdd1428d027bd2b5fbecf, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 03
+    Name: 
+    line: "Yo puedo hacerlo, yo puedo hacerlo\u2026 "
+    speed: 0.08
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 04
+    Name: Attis
+    line: "Mi decisi\xF3n es\u2026 "
+    speed: 0.08
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 1
+      options:
+      - "Producci\xF3n maximizada"
+      - "Industrializaci\xF3n privatizada"
+      WhatToChange: 0
+      novel:
+      - {fileID: 11400000, guid: 44086eb4517523543bb40aa51e1777ed, type: 2}
+      - {fileID: 11400000, guid: 883b9cd65b4e52e4d9abb8aca78ec389, type: 2}
+      index: 
+      NameScene: []
+  - dialogueId: 05
+    Name: Septiembre
+    line: "Entonces, la decisi\xF3n ha sido tomada\u2026"
+    speed: 0.05
+    voice: {fileID: 8300000, guid: a0dbf1e50e6dc6c4f85b0385a6786d8c, type: 3}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character:
+    - {fileID: 21300000, guid: 6739f37e66dbdd1428d027bd2b5fbecf, type: 3}
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel:
+      - {fileID: 11400000, guid: bab7fb56b95c95443a33b540aa16a6a3, type: 2}
+      - {fileID: 11400000, guid: 883b9cd65b4e52e4d9abb8aca78ec389, type: 2}
+      index: 
+      NameScene: []
+  nextNovel: {fileID: 11400000, guid: 883b9cd65b4e52e4d9abb8aca78ec389, type: 2}
+  idLoad: 5A
+  idFC: 4
+  timeStartNovel: 10
+  isEnding: 0
+  TimeToCredits: 0

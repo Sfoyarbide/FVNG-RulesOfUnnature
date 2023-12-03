@@ -1,0 +1,4 @@
+repository "FVNG@Atlantic_Games@cloud"
+  path "/"
+    br "/main"
+    co "/main"

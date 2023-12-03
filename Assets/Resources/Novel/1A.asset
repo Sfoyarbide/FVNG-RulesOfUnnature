@@ -1,0 +1,561 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fffa0133a6e0f49af55b75744b912a, type: 3}
+  m_Name: 1A
+  m_EditorClassIdentifier: 
+  dialogues:
+  - dialogueId: 00
+    Name: 
+    line: "Soy Attis Kandalia. Soy la principal c\xF3nsul de un pueblo agr\xEDcola,
+      Kandelia.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 2773f226351ed3942973b3c158158ddd, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 01
+    Name: 
+    line: "Kandelia est\xE1 en una de las llanuras m\xE1s amplias cercanas a los
+      bosques. Cercana de la creciente metr\xF3polis Sirlkind. \r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 21300000, guid: 2773f226351ed3942973b3c158158ddd, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 02
+    Name: 
+    line: "El pueblo que gobierno tiene aproximadamente 50.000 personas bajo mi cargo,
+      que conf\xEDan en m\xED y en mis decisiones.\r\n\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 03
+    Name: 
+    line: "Mi pueblo, adem\xE1s tiene una cultura alimentaria, que ha sido transmitida
+      a trav\xE9s de los siglos, que permite a todos los ciudadanos\u2026 el acceso
+      a la alimentaci\xF3n.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 04
+    Name: 
+    line: "Es de hecho, mi deber\u2026  atender que esto siga as\xED\u2026 a futuro.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 05
+    Name: 
+    line: "Sin embargo no soy la \xFAnica gobernante, Kandelia est\xE1 bajo el mando
+      de 5 c\xF3nsules m\xE1s.  \r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 06
+    Name: 
+    line: "Pero yo soy la encargada de decidir, tengo en mis manos la posibilidad
+      de mejorar o destruir esta naci\xF3n.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 07
+    Name: 
+    line: "El d\xEDa de hoy, va a ser la primera vez que los nuevos c\xF3nsules se
+      re\xFAnan. Estoy nerviosa, debo de hacer lo mejor, pero temo lo peor.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 08
+    Name: 
+    line: "No hay ning\xFAn enemigo presente, son tiempos de tranquilidad que exigen
+      crecimiento, pero de todos modos tengo miedo\u2026\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 09
+    Name: 
+    line: "Hoy es 19 de Julio, fui votada como c\xF3nsul principal por mi pueblo
+      el 10 Julio, por esto mismo, mi alias va hacer Julio. \r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 10
+    Name: 
+    line: "No tengo que temer a nada, no hay de hecho nada a que temer. Debo de lograr
+      que mi pueblo se mantenga con su tradici\xF3n cultural."
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 11
+    Name: 
+    line: "Actualmente estoy dirigi\xE9ndome a la casa de los c\xF3nsules. Cerca
+      de donde vivo.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: track_02
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 3
+      audioclip: Caminar
+      Floats:
+      - 0.8
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 12
+    Name: 
+    line: "En el camino pude observar una de tantas casas de distribuci\xF3n\u2026\r\n\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 494b970f2715fcc49a9011fdda96b005, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 3
+      audioclip: GenteMurmurando
+      Floats:
+      - 0
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 13
+    Name: 
+    line: "Son las encargadas de que la comida sea repartida a nuestros ciudadanos,
+      estas tienen una producci\xF3n dentro del edificio y la granjas que le traen
+      comida a estas casas. \r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 14
+    Name: 
+    line: Es hermoso como no requerimos de un trueque o una moneda, como tiene Sirlkind.
+      Simplemente lo damos por el bien de nuestra gente, no negociamos el alimento
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 15
+    Name: 
+    line: "Algunas personas\u2026 se percataron de mi presencia\u2026  \xA1me aplaudieron!
+      \r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 84a77b35d057fb9469291164f8a9eea6, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 3
+      audioclip: Aplausos
+      Floats:
+      - 7
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 16
+    Name: 
+    line: "Me sent\xED feliz\u2026 los salud\xE9 r\xE1pidamente y queriendo evitar
+      que m\xE1s personas se percataran, acelere el paso para llegar r\xE1pido.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: '17 '
+    Name: 
+    line: "Llegu\xE9... finalmente estoy aqu\xED, en la casa de la reuni\xF3n...
+      En mi primer d\xEDa en mi cargo.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 1
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: fa5dcaebd679da449be7adec4a5f1c23, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 18
+    Name: 
+    line: "Proced\xED abrir las puertas, y luego entrar.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect:
+    - Type: 3
+      audioclip: PuertaAbriendose
+      Floats:
+      - 2
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 19
+    Name: 
+    line: "Al entrar me encontr\xE9 la sala de reuni\xF3n, all\xED est\xE1n los 5
+      c\xF3nsules. El sexto asiento que est\xE1 situado en el fondo de la mesa es
+      el mio.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 1
+    background: {fileID: 21300000, guid: 07c30670dd70e834c902be62921a927d, type: 3}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 20
+    Name: 
+    line: "Me sent\xE9 y empec\xE9 a reconocer a cada uno de los c\xF3nsules.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 21
+    Name: Julio
+    line: "Enfrentado a m\xED, se encuentra September Wilim, parad\xF3jicamente su
+      alias es Septiembre, por ende, votada en septiembre, asumiendo su cargo hoy
+      en conjunto a la nueva c\xF3nsul principal.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 22
+    Name: Julio
+    line: "A mi derecha se encuentra Fender Fill, alias Marzo. La mujer detr\xE1s
+      de \xE9l es Lidia Gladius, su alias Abril.\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 23
+    Name: Julio
+    line: "A mi izquierda est\xE1 Rendus Jandir, su alias Diciembre. Jazmin Fandius,
+      alias Octubre. \r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 0
+    KickOtherCharacter: 0
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  - dialogueId: 24
+    Name: Julio
+    line: "Okay\u2026  \xA1Aqu\xED vamos, esperemos que todo salga bien!\r\n"
+    speed: 0.1
+    voice: {fileID: 0}
+    soundtrack: 
+    pauseSoundtrack: 0
+    MakeTransition: 0
+    background: {fileID: 0}
+    EndNovel: 1
+    KickOtherCharacter: 1
+    character: []
+    effect: []
+    options:
+      HaveOptions: 0
+      options: []
+      WhatToChange: 0
+      novel: []
+      index: 
+      NameScene: []
+  nextNovel: {fileID: 11400000, guid: a21376336eadadd44aa5b7bf4468499c, type: 2}
+  idLoad: 1A
+  idFC: 0
+  timeStartNovel: 2
+  isEnding: 0
+  TimeToCredits: 0
